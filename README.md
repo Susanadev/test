@@ -1,6 +1,6 @@
 # .NET MAUI (Multi-platform App UI) app connected to Microsoft Graph
 
-This is a template for MAUI(Multi-platform App UI) app that connects to Microsoft Graph.
+This is a template for MAUI(Multi-platform App UI) app that connects to Microsoft Graph. Test
 
 ## Minimal Path to Awesome 🚀
 
